@@ -10,6 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
+    "master": "0.0.14",
+    "morgan": "^1.10.0",
     "nodemon": "^2.0.14"
   }
 }
